@@ -1,0 +1,15 @@
+T:\H11T-INF\INF81966\cours6b_events\composant_jauge_dll\AquaGauge_src\bin\Debug\AquaGauge.dll
+T:\H11T-INF\INF81966\cours6b_events\composant_jauge_dll\AquaGauge_src\bin\Debug\AquaGauge.pdb
+T:\H11T-INF\INF81966\cours6b_events\composant_jauge_dll\AquaGauge_src\obj\Debug\ResolveAssemblyReference.cache
+T:\H11T-INF\INF81966\cours6b_events\composant_jauge_dll\AquaGauge_src\obj\Debug\AquaControls.AquaGauge.resources
+T:\H11T-INF\INF81966\cours6b_events\composant_jauge_dll\AquaGauge_src\obj\Debug\AquaGauge.csproj.GenerateResource.Cache
+T:\H11T-INF\INF81966\cours6b_events\composant_jauge_dll\AquaGauge_src\obj\Debug\AquaGauge.dll
+T:\H11T-INF\INF81966\cours6b_events\composant_jauge_dll\AquaGauge_src\obj\Debug\AquaGauge.pdb
+H:\C#__.net\projects\Windows Forms\composant_jauge_dll\AquaGauge_src\bin\Debug\AquaGauge.dll
+H:\C#__.net\projects\Windows Forms\composant_jauge_dll\AquaGauge_src\bin\Debug\AquaGauge.pdb
+H:\C#__.net\projects\Windows Forms\composant_jauge_dll\AquaGauge_src\obj\Debug\ResolveAssemblyReference.cache
+H:\C#__.net\projects\Windows Forms\composant_jauge_dll\AquaGauge_src\obj\Debug\AquaControls.AquaGauge.resources
+H:\C#__.net\projects\Windows Forms\composant_jauge_dll\AquaGauge_src\obj\Debug\GenerateResource-ResGen.read.1.tlog
+H:\C#__.net\projects\Windows Forms\composant_jauge_dll\AquaGauge_src\obj\Debug\GenerateResource-ResGen.write.1.tlog
+H:\C#__.net\projects\Windows Forms\composant_jauge_dll\AquaGauge_src\obj\Debug\AquaGauge.dll
+H:\C#__.net\projects\Windows Forms\composant_jauge_dll\AquaGauge_src\obj\Debug\AquaGauge.pdb

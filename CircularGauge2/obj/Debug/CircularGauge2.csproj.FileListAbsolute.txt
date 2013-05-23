@@ -1,0 +1,8 @@
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\TP_Gauge\CircularGauge2\bin\Debug\CircularGauge2.dll
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\TP_Gauge\CircularGauge2\bin\Debug\CircularGauge2.pdb
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\TP_Gauge\CircularGauge2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\TP_Gauge\CircularGauge2\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\TP_Gauge\CircularGauge2\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\TP_Gauge\CircularGauge2\obj\Debug\CircularGauge2.dll
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\TP_Gauge\CircularGauge2\obj\Debug\CircularGauge2.pdb
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\TP_Gauge\CircularGauge2\obj\Debug\GaugeControls.CircularGauge2.resources

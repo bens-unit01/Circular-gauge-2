@@ -1,0 +1,22 @@
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\projects\Windows Forms\composant_jauge_dll\TestJauge\bin\Release\TestJauge.exe
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\projects\Windows Forms\composant_jauge_dll\TestJauge\bin\Release\TestJauge.pdb
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\projects\Windows Forms\composant_jauge_dll\TestJauge\bin\Release\AquaGauge.dll
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\projects\Windows Forms\composant_jauge_dll\TestJauge\bin\Release\AquaGauge.pdb
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\projects\Windows Forms\composant_jauge_dll\TestJauge\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\projects\Windows Forms\composant_jauge_dll\TestJauge\obj\x86\Release\TestJauge.Form1.resources
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\projects\Windows Forms\composant_jauge_dll\TestJauge\obj\x86\Release\TestJauge.Properties.Resources.resources
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\projects\Windows Forms\composant_jauge_dll\TestJauge\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\projects\Windows Forms\composant_jauge_dll\TestJauge\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\projects\Windows Forms\composant_jauge_dll\TestJauge\obj\x86\Release\TestJauge.exe
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\projects\Windows Forms\composant_jauge_dll\TestJauge\obj\x86\Release\TestJauge.pdb
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\projects\Windows Forms\composant_jauge_dll\TestJauge\bin\Release\RectangularGauge.dll
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\projects\Windows Forms\composant_jauge_dll\TestJauge\bin\Release\RectangularGauge.pdb
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\TP_Gauge\TestJauge\obj\x86\Release\TestJauge.exe
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\TP_Gauge\TestJauge\obj\x86\Release\TestJauge.pdb
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\TP_Gauge\TestJauge\bin\Release\TestJauge.exe
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\TP_Gauge\TestJauge\bin\Release\TestJauge.pdb
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\TP_Gauge\TestJauge\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\TP_Gauge\TestJauge\obj\x86\Release\TestJauge.Form1.resources
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\TP_Gauge\TestJauge\obj\x86\Release\TestJauge.Properties.Resources.resources
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\TP_Gauge\TestJauge\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\TP_Gauge\TestJauge\obj\x86\Release\GenerateResource.write.1.tlog

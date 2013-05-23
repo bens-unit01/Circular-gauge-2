@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TestJauge">
+</Property><Property Name="Fichier solution" Value="C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\TP_Gauge\TestJauge\TestJauge.sln">
+</Property><Property Name="Date" Value="4 mars 2013">
+</Property><Property Name="Time" Value="18:30:53">
+</Property></Properties><Event ErrorLevel="0" Project="AquaGauge" Source="..\AquaGauge\AquaGauge.csproj" Description="Fichier projet correctement sauvegardé en tant que C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\TP_Gauge\TestJauge\Backup\AquaGauge.csproj">
+</Event><Event ErrorLevel="0" Project="AquaGauge" Source="..\AquaGauge\AquaGauge.cs" Description="Fichier correctement sauvegardé en tant que C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\TP_Gauge\TestJauge\Backup\AquaGauge.cs">
+</Event><Event ErrorLevel="0" Project="AquaGauge" Source="..\AquaGauge\AquaGauge.Designer.cs" Description="Fichier correctement sauvegardé en tant que C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\TP_Gauge\TestJauge\Backup\AquaGauge.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AquaGauge" Source="..\AquaGauge\Properties\AssemblyInfo.cs" Description="Fichier correctement sauvegardé en tant que C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\TP_Gauge\TestJauge\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AquaGauge" Source="..\AquaGauge\AquaGauge.resx" Description="Fichier correctement sauvegardé en tant que C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\TP_Gauge\TestJauge\Backup\AquaGauge.resx">
+</Event><Event ErrorLevel="0" Project="AquaGauge" Source="..\AquaGauge\AquaGauge.csproj" Description="Projet correctement converti">
+</Event><Event ErrorLevel="3" Project="AquaGauge" Source="..\AquaGauge\AquaGauge.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AquaGauge" Source="..\AquaGauge\AquaGauge.csproj" Description="Analyse terminée : la mise à niveau n'est pas requise pour les fichiers projet.">
+</Event></UpgradeLog>

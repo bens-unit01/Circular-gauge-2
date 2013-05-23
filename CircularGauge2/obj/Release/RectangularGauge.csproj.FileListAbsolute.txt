@@ -1,0 +1,8 @@
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\projects\Windows Forms\composant_jauge_dll\RectangularGauge\bin\Release\RectangularGauge.dll
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\projects\Windows Forms\composant_jauge_dll\RectangularGauge\bin\Release\RectangularGauge.pdb
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\projects\Windows Forms\composant_jauge_dll\RectangularGauge\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\projects\Windows Forms\composant_jauge_dll\RectangularGauge\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\projects\Windows Forms\composant_jauge_dll\RectangularGauge\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\projects\Windows Forms\composant_jauge_dll\RectangularGauge\obj\Release\RectangularGauge.dll
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\projects\Windows Forms\composant_jauge_dll\RectangularGauge\obj\Release\RectangularGauge.pdb
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\projects\Windows Forms\composant_jauge_dll\RectangularGauge\obj\Release\AquaControls.RectGauge.resources

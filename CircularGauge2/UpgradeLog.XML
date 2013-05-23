@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AquaGauge">
+</Property><Property Name="Fichier solution" Value="T:\H11T-INF\INF81966\cours6b_events\composant_jauge_dll\AquaGauge_src\AquaGauge.sln">
+</Property><Property Name="Date" Value="9 février 2011">
+</Property><Property Name="Time" Value="14:40:14">
+</Property></Properties><Event ErrorLevel="0" Project="AquaGauge" Source="AquaGauge.csproj" Description="Projet correctement converti">
+</Event><Event ErrorLevel="3" Project="AquaGauge" Source="AquaGauge.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AquaGauge" Source="AquaGauge.csproj" Description="Analyse terminée : la mise à niveau n'est pas requise pour les fichiers projet.">
+</Event></UpgradeLog>

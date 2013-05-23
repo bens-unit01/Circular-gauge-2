@@ -1,0 +1,8 @@
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\TP_Gauge\RectangularGauge\bin\Debug\RectangularGauge.dll
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\TP_Gauge\RectangularGauge\bin\Debug\RectangularGauge.pdb
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\TP_Gauge\RectangularGauge\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\TP_Gauge\RectangularGauge\obj\Debug\AquaControls.RectGauge.resources
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\TP_Gauge\RectangularGauge\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\TP_Gauge\RectangularGauge\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\TP_Gauge\RectangularGauge\obj\Debug\RectangularGauge.dll
+C:\Documents and Settings\user1\Mes documents\Google Drive\Formation\C#__.net -- 819\TP_Gauge\RectangularGauge\obj\Debug\RectangularGauge.pdb
